@@ -1,3 +1,3 @@
 vim
 ===
-setting の名前を.vimに帰れば使える
+setting の名前を.vimに変更すれば使える
