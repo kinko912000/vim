@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/Yoshiaki/Dropbox/DeNA/Amon2Test/TenyBBS/lib/TenyBBS/Web'
+let g:netrw_dirhist_2='/Users/Yoshiaki/Downloads/3tab_full/3tab'
+let g:netrw_dirhist_3='/Users/Yoshiaki/.vim/bundle'
